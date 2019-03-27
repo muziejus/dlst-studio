@@ -1,5 +1,5 @@
 # dlst-studio [![Build Status](https://travis-ci.org/cul/dlst-studio.svg?branch=master)](https://travis-ci.org/cul/dlst-studio) [![Dependencies](https://img.shields.io/librariesio/github/cul/dlst-studio.svg)](https://libraries.io/github/cul/dlst-studio)
-Jekyll site for the Digital Humanities @Columbia
+Jekyll site for the Digital Humanities @Columbia.
 
 ### Basic Information:
 
